@@ -3,11 +3,7 @@
   "version": "0.0.1",
   "description": "Provides an interface for the Atlas Scientific EZO modules",
   "main": "index.js",
-  "scripts": {
-    //"pretest": "eslint ./",
-    //"test": "mocha 'test/**/*.spec.js'",
-    //"test:watch": "nodemon -w ./ -e js -x 'npm test -- --growl --reporter dot'"
-  },
+
   "engines": {
     "node": ">=4.5"
   },
@@ -30,8 +26,6 @@
   "homepage": "https://github.com/jahartley/node-ezo-i2c",
   "dependencies": {
     "i2c-bus": "^5.1.0"
-  },
-  "devDependencies": {
-    
   }
+  
 }
