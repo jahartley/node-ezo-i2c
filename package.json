@@ -1,6 +1,6 @@
 {
   "name": "@jahartley/ezo-i2c",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Provides an interface for the Atlas Scientific EZO modules",
   "main": "index.js",
 
